@@ -30,7 +30,7 @@ KUHARApp – это удобное мобильное приложение дл�
 
 - Экран профиля 
 
-![Экран профиля](https://github.com/KateGorinova/KUHARApp/blob/screenshots/pofile.png)
+![Экран профиля](https://github.com/KateGorinova/KUHARApp/blob/screenshots/profile.png)
 
 - Главный экран(Рецепт дня) 
 
@@ -38,7 +38,7 @@ KUHARApp – это удобное мобильное приложение дл�
 
 - Экран поиска
 
-![Экран поиска](https://github.com/KateGorinova/KUHARApp/blob/screenshots/main.png)
+![Экран поиска](https://github.com/KateGorinova/KUHARApp/blob/screenshots/search.png)
 ![Экран результата поиска](https://github.com/KateGorinova/KUHARApp/blob/screenshots/catalog.png)
 
 - Экран детального описания рецепта
